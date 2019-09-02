@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Olivia Holmes
+_Technical Resume 2019_ 
 
-I'm glad you are here. I plan to talk about ...
+Power Bi 
